@@ -1,1 +1,1 @@
-# GraphqlSimple
+การใช้  graphql โดยการ fetch data จากไฟล์  customer.json 
